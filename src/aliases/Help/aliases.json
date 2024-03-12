@@ -1,0 +1,7 @@
+[
+    {
+        "name": "helpFrame Splash",
+        "isActive": "yes",
+        "regex": "^helpframe$"
+    }
+]

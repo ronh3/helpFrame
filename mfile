@@ -1,0 +1,10 @@
+{
+       "package": "helpFramework",
+       "title": "helpFramework",
+       "description": "The framework that helps you help yourself!",
+       "version": "1.0",
+       "author": "Nikolais",
+       "icon": "",
+       "dependencies": "",
+       "outputFile": false
+}

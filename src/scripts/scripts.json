@@ -1,0 +1,14 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "helpFrame Functions",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "helpFrame Help",
+              "script": ""
+       }
+]

@@ -1,0 +1,1 @@
+helpFrame.createHelp(helpFrame.helpSplash)
